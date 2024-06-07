@@ -35,4 +35,5 @@ function configure( api ){
     ],
         'client'
     );
+    api.addFiles( 'src/client/constants/colors.less', 'client' );
 }
