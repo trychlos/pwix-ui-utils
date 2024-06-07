@@ -22,7 +22,6 @@ function configure( api ){
     api.versionsFrom([ '2.9.0', '3.0-rc.0' ]);
     api.use( 'ecmascript' );
     api.use( 'less@4.0.0', 'client' );
-    api.use( 'pwix:layout@1.3.1' );
     api.addAssets([
         'src/client/icons/external-link-black.png',
         'src/client/icons/external-link-blue.png',
