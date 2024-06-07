@@ -215,3 +215,47 @@ body {
         max-width: 8.25em;
     }
 }
+
+body {
+    a.ui-extlink::after {
+        display: inline-block;
+        margin-left: 0.25em;
+        content: ' ';
+        height: 12px;
+        width: 12px;
+    }
+    a.ui-extlink.ui-black::after {
+        background: url( '/packages/pwix_ui-utils/src/client/icons/external-link-black.png' ) no-repeat center/100%;
+    }
+    a.ui-extlink.ui-blue::after {
+        background: url( '/packages/pwix_ui-utils/src/client/icons/external-link-blue.png' ) no-repeat center/100%;
+    }
+    a.ui-extlink.ui-red::after {
+        background: url( '/packages/pwix_ui-utils/src/client/icons/external-link-red.png' ) no-repeat center/100%;
+    }
+    a.ui-extlink.ui-white::after {
+        background: url( '/packages/pwix_ui-utils/src/client/icons/external-link-white.png' ) no-repeat center/100%;
+    }
+    a.ui-extlink.ui-svg::after {
+        background: url( '/packages/pwix_ui-utils/src/client/icons/external-link-black.svg' ) no-repeat center/100%;
+    }
+    a.ui-extpdf::after {
+        display: inline-block;
+        margin-left: 0.25em;
+        content: ' ';
+        height: 12px;
+        width: 12px;
+    }
+    a.ui-extpdf.ui-black::after {
+        background: url( '/packages/pwix_ui-utils/src/client/icons/external-pdf-black.png' ) no-repeat center/100%;
+    }
+    a.ui-extpdf.ui-blue::after {
+        background: url( '/packages/pwix_ui-utils/src/client/icons/external-pdf-blue.png' ) no-repeat center/100%;
+    }
+    a.ui-extpdf.ui-red::after {
+        background: url( '/packages/pwix_ui-utils/src/client/icons/external-pdf-red.png' ) no-repeat center/100%;
+    }
+    a.ui-extpdf.ui-white::after {
+        background: url( '/packages/pwix_ui-utils/src/client/icons/external-pdf-white.png' ) no-repeat center/100%;
+    }
+}

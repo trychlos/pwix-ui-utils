@@ -29,6 +29,19 @@ function configure( api ){
     _use( 'less@4.0.0', 'client' );
     _use( 'pwix:layout@1.3.1' );
     _use( 'tmeasday:check-npm-versions@1.0.2 || 2.0.0-beta.0', 'server' );
+    api.addAssets([
+        'src/client/icons/external-link-black.png',
+        'src/client/icons/external-link-blue.png',
+        'src/client/icons/external-link-red.png',
+        'src/client/icons/external-link-white.png',
+        'src/client/icons/external-pdf-black.png',
+        'src/client/icons/external-pdf-blue.png',
+        'src/client/icons/external-pdf-red.png',
+        'src/client/icons/external-pdf-white.png',
+        'src/client/icons/external-link-black.svg'
+    ],
+        'client'
+    );
 }
 
 // NPM dependencies are checked in /src/server/js/check_npms.js
