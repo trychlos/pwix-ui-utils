@@ -2,7 +2,7 @@
 
 ## What is it ?
 
-A Meteor package to gather our UI styling and DOM utilities while keeping it as light as possible, so that any package can safely use this one without pulling too many unused garbage.
+A Meteor package to gather our UI styling utilities while keeping it as light as possible, so that any package can safely use this one without pulling too many unused garbage.
 
 ## Configuration
 
