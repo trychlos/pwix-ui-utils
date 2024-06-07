@@ -8,11 +8,7 @@ Package.describe({
 
 Package.onUse( function( api ){
     configure( api );
-    api.export([
-        'UIUtils'
-    ]);
     api.mainModule( 'src/client/js/index.js', 'client' );
-    api.mainModule( 'src/server/js/index.js', 'server' );
 });
 
 Package.onTest( function( api ){
@@ -27,7 +23,6 @@ function configure( api ){
     api.use( 'ecmascript' );
     api.use( 'less@4.0.0', 'client' );
     api.use( 'pwix:layout@1.3.1' );
-    api.use( 'tmeasday:check-npm-versions@1.0.2 || 2.0.0-beta.0', 'server' );
     api.addAssets([
         'src/client/icons/external-link-black.png',
         'src/client/icons/external-link-blue.png',
@@ -42,6 +37,3 @@ function configure( api ){
         'client'
     );
 }
-
-// NPM dependencies are checked in /src/server/js/check_npms.js
-// See also https://guide.meteor.com/writing-atmosphere-packages.html#peer-npm-dependencies
