@@ -3,3 +3,5 @@
  */
 
 import './global.js';
+
+console.debug( 'pwix:ui-utils initialization' );
