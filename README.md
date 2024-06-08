@@ -6,4 +6,4 @@ A Meteor package to gather our UI styling utilities while keeping it as light as
 
 ---
 P. Wieser
-- Last updated on 2024, May. 24th
+- Last updated on 2024, Jun. 8th
