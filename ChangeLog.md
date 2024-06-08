@@ -6,7 +6,7 @@
 
     Release date: 
 
-    - 
+    - Assert the presence of the package on the debug console
 
 ### 1.0.0
 
