@@ -4,9 +4,10 @@
 
 ### 1.0.1-rc
 
-    Release date: 
+    Release date:
 
     - Assert the presence of the package on the debug console
+    - Update README
 
 ### 1.0.0
 
