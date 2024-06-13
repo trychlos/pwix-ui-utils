@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 1.0.1-rc
+### 1.0.1
 
-    Release date:
+    Release date: 2024- 6-13
 
     - Assert the presence of the package on the debug console
     - Update README
@@ -17,4 +17,4 @@
 
 ---
 P. Wieser
-- Last updated on 2024, Jun. 8th
+- Last updated on 2024, Jun. 13th
