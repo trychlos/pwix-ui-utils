@@ -1,6 +1,6 @@
 Package.describe({
     name: 'pwix:ui-utils',
-    version: '1.0.1',
+    version: '1.0.2-rc',
     summary: 'UI utilities',
     git: 'https://github.com/trychlos/pwix:ui-utils',
     documentation: 'README.md'
