@@ -18,6 +18,16 @@ Nothing to do: the stylesheets are automatically made available to the client.
 
 ## Provides
 
+### `UI`
+
+The exported `UI` global object provides following items:
+
+#### Functions
+
+##### `UI.DOM.waitFor( selector )`
+
+Returns a `Promise` which will eventually resolve when the selector be DOM-ready.
+
 ### CSS positioning
 
 ### mixins

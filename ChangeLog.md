@@ -2,11 +2,11 @@
 
 ## ChangeLog
 
-### 1.0.2-rc
+### 1.1.0-rc
 
-    Release date: 
+    Release date:
 
-    - 
+    - Export the UI global and define UI.DOM.waitFor() function
 
 ### 1.0.1
 
