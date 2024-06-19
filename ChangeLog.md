@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 1.2.0-rc
+### 1.2.0
 
-    Release date:
+    Release date: 2024- 6-19
 
     - The global exported is renamed 'UIU', only bumping minor candidate version number thanks to confidential diffusion
 
@@ -29,4 +29,4 @@
 
 ---
 P. Wieser
-- Last updated on 2024, Jun. 18th
+- Last updated on 2024, Jun. 19th
