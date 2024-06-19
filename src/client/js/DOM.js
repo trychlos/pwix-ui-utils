@@ -4,7 +4,7 @@
 
 import _ from 'lodash';
 
-UI.DOM = {
+UIU.DOM = {
     // https://stackoverflow.com/questions/5525071/how-to-wait-until-an-element-exists
     //  only initialize jQuery plugins when the DOM element is available
     //  returns a Promise which will resolve when the selector will be DOM-ready

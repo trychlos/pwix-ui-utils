@@ -3,6 +3,7 @@
  */
 
 import './global.js';
+import './DOM.js';
 
 import '../stylesheets/index.js';
 

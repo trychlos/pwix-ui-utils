@@ -2,11 +2,11 @@
 
 ## ChangeLog
 
-### 1.1.1-rc
+### 1.2.0-rc
 
-    Release date: 
+    Release date:
 
-    - 
+    - The global exported is renamed 'UIU', only bumping minor candidate version number thanks to confidential diffusion
 
 ### 1.1.0
 
