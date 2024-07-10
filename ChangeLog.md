@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 1.2.1-rc
+### 1.2.1
 
-    Release date: 
+    Release date: 2024- 7-10
 
     - Add ui-noborder, ui-mr075, ui-mr1 classes
 
@@ -35,4 +35,4 @@
 
 ---
 P. Wieser
-- Last updated on 2024, Jun. 19th
+- Last updated on 2024, Jul. 10th
