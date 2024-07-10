@@ -6,7 +6,7 @@
 
     Release date: 
 
-    - 
+    - Add ui-noborder, ui-mr075, ui-mr1 classes
 
 ### 1.2.0
 
