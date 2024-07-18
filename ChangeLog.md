@@ -6,7 +6,7 @@
 
     Release date: 
 
-    - 
+    - Remove 'display:block' from ui-ellipsized
 
 ### 1.2.1
 
