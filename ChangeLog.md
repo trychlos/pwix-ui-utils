@@ -7,6 +7,7 @@
     Release date: 
 
     - Remove 'display:block' from ui-ellipsized
+    - Define 'ui-diblock' class
 
 ### 1.2.1
 
