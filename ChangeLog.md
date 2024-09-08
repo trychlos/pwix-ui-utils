@@ -8,6 +8,7 @@
 
     - Remove 'display:block' from ui-ellipsized
     - Define 'ui-diblock' class
+    - Define 'ui-mt025' class
 
 ### 1.2.1
 
