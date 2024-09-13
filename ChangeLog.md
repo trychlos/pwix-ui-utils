@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 1.2.2-rc
+### 1.2.2
 
-    Release date: 
+    Release date: 2024- 9-13
 
     - Remove 'display:block' from ui-ellipsized
     - Define 'ui-diblock' class
@@ -43,4 +43,4 @@
 
 ---
 P. Wieser
-- Last updated on 2024, Jul. 10th
+- Last updated on 2024, Sep. 13th
