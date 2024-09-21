@@ -6,7 +6,7 @@
 
     Release date: 
 
-    - 
+    - Define 'ui-mb1' class
 
 ### 1.2.2
 
