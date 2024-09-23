@@ -7,6 +7,7 @@
     Release date: 
 
     - Define 'ui-mb1' class
+    - Define 'ui-w4775' class
 
 ### 1.2.2
 
