@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 1.2.3-rc
+### 1.2.3
 
-    Release date: 
+    Release date: 2024-10- 4
 
     - Define 'ui-mb1' class
     - Define 'ui-w4775' class
@@ -50,4 +50,4 @@
 
 ---
 P. Wieser
-- Last updated on 2024, Sep. 13th
+- Last updated on 2024, Oct. 4th
