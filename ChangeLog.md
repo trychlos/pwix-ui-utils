@@ -7,6 +7,7 @@
     Release date: 
 
     - Define 'ui-w75' class
+    - Define 'ui-w1em' class
 
 ### 1.2.3
 
