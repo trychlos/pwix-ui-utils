@@ -6,7 +6,7 @@
 
     Release date: 
 
-    - 
+    - Define 'ui-w75' class
 
 ### 1.2.3
 
