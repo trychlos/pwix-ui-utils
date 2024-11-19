@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 1.2.4-rc
+### 1.2.4
 
-    Release date: 
+    Release date: 2024-11-19
 
     - Define 'ui-w75' class
     - Define 'ui-w1em' class
@@ -57,4 +57,4 @@
 
 ---
 P. Wieser
-- Last updated on 2024, Oct. 4th
+- Last updated on 2024, Nov. 19th
