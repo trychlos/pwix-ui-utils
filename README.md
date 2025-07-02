@@ -38,7 +38,24 @@ None at the moment.
 
 ## NPM peer dependencies
 
-None at the moment.
+Starting with v 0.1.0, and in accordance with advices from [the Meteor Guide](https://guide.meteor.com/writing-atmosphere-packages.html#peer-npm-dependencies), we no more hardcode NPM dependencies in the `Npm.depends` clause of the `package.js`.
+
+Instead we check npm versions of installed packages at runtime, on server startup, in development environment.
+
+Dependencies as of v 1.0.0:
+
+```js
+    'ellipsize': '^0.5.1',
+    'lodash': '^4.17.0',
+    'strftime': '^0.10.2',
+    '@vestergaard-company/js-mixin': '^1.0.3'
+```
+
+Each of these dependencies should be installed at application level:
+
+```sh
+    meteor npm install <package> --save
+```
 
 ## Translations
 

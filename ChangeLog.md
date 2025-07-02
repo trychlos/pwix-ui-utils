@@ -2,11 +2,12 @@
 
 ## ChangeLog
 
-### 1.2.5-rc
+### 1.3.0-rc
 
     Release date: 
 
-    - 
+    - Define new DOM functions moved from pwix:core-app, thus bumping candidate minor release version
+    - Have now a server part to check the NPM presences
 
 ### 1.2.4
 
