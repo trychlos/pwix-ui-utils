@@ -6,7 +6,7 @@
 
     Release date: 
 
-    - 
+    - Fix README
 
 ### 1.3.0
 

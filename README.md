@@ -43,13 +43,11 @@ Starting with v 0.1.0, and in accordance with advices from [the Meteor Guide](ht
 Instead we check npm versions of installed packages at runtime, on server startup, in development environment.
 
 Dependencies as of v 1.3.0:
+
 ```js
     'ellipsize': '^0.5.1',
-    'lodash': '^4.17.0',
-    'strftime': '^0.10.2',
-    '@vestergaard-company/js-mixin': '^1.0.3'
+    'lodash': '^4.17.0'
 ```
-    'ellipsize': '^0.5.1',    'lodash': '^4.17.0'```
 
 ## Translations
 
