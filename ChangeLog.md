@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 1.4.0-rc
+### 1.4.0
 
-    Release date: 
+    Release date: 2025- 7- 8
 
     - Fix README
     - Rename 'UIU' exported to 'UIUtils' for UILayout consistency
@@ -71,4 +71,4 @@
 
 ---
 P. Wieser
-- Last updated on 2025, Jul. 3rd
+- Last updated on 2025, Jul. 8th
