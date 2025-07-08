@@ -2,11 +2,12 @@
 
 ## ChangeLog
 
-### 1.3.1-rc
+### 1.4.0-rc
 
     Release date: 
 
     - Fix README
+    - Rename 'UIU' exported to 'UIUtils' for UILayout consistency
 
 ### 1.3.0
 
@@ -47,7 +48,7 @@
 
     Release date: 2024- 6-19
 
-    - The global exported is renamed 'UIU', only bumping minor candidate version number thanks to confidential diffusion
+    - The global exported is renamed 'UIUtils', only bumping minor candidate version number thanks to confidential diffusion
 
 ### 1.1.0
 

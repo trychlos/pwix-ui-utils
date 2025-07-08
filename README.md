@@ -18,13 +18,13 @@ Nothing to do: the stylesheets are automatically made available to the client.
 
 ## Provides
 
-### `UIU`
+### `UIUtils`
 
-The exported `UIU` global object provides following items:
+The exported `UIUtils` global object provides following items:
 
 #### Functions
 
-##### `UIU.DOM.waitFor( selector )`
+##### `UIUtils.DOM.waitFor( selector )`
 
 Returns a `Promise` which will eventually resolve when the selector be DOM-ready.
 

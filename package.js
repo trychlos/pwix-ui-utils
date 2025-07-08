@@ -1,6 +1,6 @@
 Package.describe({
     name: 'pwix:ui-utils',
-    version: '1.3.1-rc',
+    version: '1.4.0-rc',
     summary: 'UI utilities',
     git: 'https://github.com/trychlos/pwix:ui-utils',
     documentation: 'README.md'
@@ -9,7 +9,7 @@ Package.describe({
 Package.onUse( function( api ){
     configure( api );
     api.export([
-        'UIU'
+        'UIUtils'
     ]);
     api.mainModule( 'src/client/js/index.js', 'client' );
     api.mainModule( 'src/server/js/index.js', 'server' );

@@ -5,7 +5,7 @@
 import _ from 'lodash';
 import ellipsize from 'ellipsize';
 
-UIU.DOM = {
+UIUtils.DOM = {
 
     // ellipsize a single line of text to fit into the width of the given container
     //  nb: when working in a table, caller should rather provide the header column as a container
